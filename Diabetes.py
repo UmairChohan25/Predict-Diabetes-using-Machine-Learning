@@ -240,7 +240,7 @@ sns.boxplot(x='Outcome',y='DiabetesPedigreeFunction',data=df).set_title('Diabete
 # \section{Visualization results}
 # summary provides valuable insights into how the mean values of different attributes vary between patients with and without diabetes (Outcome = 1 and Outcome = 0, respectively). It allows us to observe potential differences in attribute values that might be associated with the presence or absence of diabetes. For example, we can see that patients with diabetes tend to have higher mean values for "Glucose," "BloodPressure," "SkinThickness," "Insulin," "BMI," "DiabetesPedigreeFunction," and "Age" compared to those without diabetes.
 
-# In[21]:  chohan
+# In[21]:
 
 
 
